@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\SpawnPatterns.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CPP_Project\\SRC\\Game\\SpawnPatterns.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\DroppedItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\DroppedItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\DrawingManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Engine\\DrawingManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\DrawingManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Engine\\DrawingManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Engine\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Engine\\AssetManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4DAFEE8-20F0-4B96-A6EE-B5147C55CC13}|CPP_Project\\CPP_Project.vcxproj|solutionrelative:CPP_Project\\SRC\\Game\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnPatterns.hpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\SpawnPatterns.hpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\SpawnPatterns.hpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\SpawnPatterns.hpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\SpawnPatterns.hpp",
+              "ViewState": "AgIAABABAAAAAAAAAAAwwE0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-21T00:57:50.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssetManager.cpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\AssetManager.cpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Engine\\AssetManager.cpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\AssetManager.cpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Engine\\AssetManager.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T13:12:35.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssetManager.h",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\AssetManager.h",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Engine\\AssetManager.h",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\AssetManager.h",
+              "RelativeToolTip": "CPP_Project\\SRC\\Engine\\AssetManager.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T13:12:15.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Level.cpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Level.cpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Level.cpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Level.cpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Level.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T16:08:23.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Level.h",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Level.h",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Level.h",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Level.h",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Level.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T10:35:37.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Game.h",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Game.h",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Game.h",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Game.h",
+              "ViewState": "AgIAACwAAAAAAAAAAAAEwDkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T13:58:45.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Game.cpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Game.cpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Game.cpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Game.cpp",
+              "ViewState": "AgIAAHUDAAAAAAAAAAAIwIUDAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T13:57:27.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "93e33149-1f54-42fe-a0dc-bd1e8b056ac4",
+        "Display": 0,
+        "X": 358,
+        "Y": 127,
+        "Width": 1053,
+        "Height": 624,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Bullet.h",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Bullet.h",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Bullet.h",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Bullet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T21:09:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bullet.cpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Bullet.cpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Bullet.cpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Bullet.cpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Bullet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T21:09:39.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Enemy.h",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Enemy.h",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Enemy.h",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Enemy.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T13:48:42.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Enemy.cpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Enemy.cpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Enemy.cpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T13:48:03.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Player.h",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Player.h",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Player.h",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Player.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T13:50:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Player.cpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\Player.cpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\Player.cpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\Player.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T13:50:10.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrawingManager.h",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\DrawingManager.h",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Engine\\DrawingManager.h",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\DrawingManager.h",
+              "RelativeToolTip": "CPP_Project\\SRC\\Engine\\DrawingManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T12:57:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawingManager.cpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\DrawingManager.cpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Engine\\DrawingManager.cpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Engine\\DrawingManager.cpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Engine\\DrawingManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T12:57:01.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DroppedItem.cpp",
+              "DocumentMoniker": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\DroppedItem.cpp",
+              "RelativeDocumentMoniker": "CPP_Project\\SRC\\Game\\DroppedItem.cpp",
+              "ToolTip": "D:\\ARCHIVES\\SCHOOL ARCHIVE\\HEAJ 2023-2025\\B2\\REMISE JUNE 2025\\prog\\cpp\\CPP_Project\\CPP_Project\\CPP_Project\\SRC\\Game\\DroppedItem.cpp",
+              "RelativeToolTip": "CPP_Project\\SRC\\Game\\DroppedItem.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T02:52:17.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
